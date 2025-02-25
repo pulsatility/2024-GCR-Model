@@ -1,7 +1,3 @@
-Full-text access to Frontiers in Immunology: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1377303
-
-CompuCell3D code coming soon...
-
 # A Multiscale Spatial Modeling Framework for the Germinal Center Response
 
 Derek P. Mu<sup>1</sup>, Christopher D. Scharer<sup>2</sup>, Norbert E. Kaminski<sup>3</sup>, and Qiang Zhang<sup>4</sup> 
