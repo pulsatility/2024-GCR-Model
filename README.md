@@ -20,6 +20,7 @@ The germinal center response or reaction (GCR) is a hallmark event of adaptive h
 **Keywords:** B cells, germinal center, dark zone, light zone, affinity maturation, proliferative burst, chemotaxis
 
 
+
 #  Model Code and Simulated Datasets
 - GCR_50.zip: Files of CompuCell3D model without GCR termination for main results
 - GCR_51.zip: Files of CompuCell3D model with GCR termination for Fig. S4 and S5
