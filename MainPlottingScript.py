@@ -2716,7 +2716,7 @@ plt.show()
 
 #%% Fig. 4E-4F, S1A-S1B, S1C-S1D, S4C-S4D, S5C-S5D
 """
-Fig. 4E-4F, S1A-S1B, S1C-S1D - Calculating B cell clonality percentage composition
+Fig. 4E-4F, S1A-S1B, S1C-S1D, S4C-S4D, S5C-S5D - Calculating B cell clonality percentage composition
 """
 
 # Extract seederID of cells as cloneID at regular save mcs
