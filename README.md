@@ -22,6 +22,11 @@ The germinal center response or reaction (GCR) is a hallmark event of adaptive h
 
 
 #  Model Code and Simulated Datasets
-- GCR_50.zip: Files of CompuCell3D model without GCR termination for main results
+- GCR_50.zip: Files of CompuCell3D model without GCR termination for main results and Fig. S1
 - GCR_51.zip: Files of CompuCell3D model with GCR termination for Fig. S4 and S5
-- MainPlottingScript.py: Python script to plot simulation results
+- Dataset_V50_31: Simulated dataset for Fig. S1A-S1B
+- Dataset_V50_32: Simulated dataset for Fig. S1C-S1D
+- Dataset_V50_33: Simulated dataset for main results
+- Dataset_V51_01: Simulated dataset for Fig. S4
+- Dataset_V51_02: Simulated dataset for Fig. S5
+- MainPlottingScript.py: Python script to analyze and plot simulation results
